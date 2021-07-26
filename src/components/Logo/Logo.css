@@ -1,0 +1,5 @@
+.tilt {
+	border-radius: 10px;
+	filter: invert(1);
+	border: 3px solid black;
+}
