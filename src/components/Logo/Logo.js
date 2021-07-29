@@ -1,6 +1,6 @@
 import React from 'react'
 import './Logo.css'
-import robot from './robot.png'
+import robot from './logo.png'
 
 const Logo = () => {
   return (
